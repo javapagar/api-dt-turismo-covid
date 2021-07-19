@@ -2,8 +2,8 @@ import pymysql
 
 #####Local
 # host = "localhost"
-# usuario = "root"
-# password = "Admin"
+# usuario = ""
+# password = ""
 
 ###aws
 host ="database-dt.cljvdwbzjql5.eu-west-2.rds.amazonaws.com"
